@@ -23,7 +23,7 @@ pipeline {
 
         stage('Get SCM') {
             steps {
-                git 'https://github.com/Alex-Golub/lab3.git'
+                git 'https://github.com/Alex-Golub/Assingment-3.git'
             }
         }
 
